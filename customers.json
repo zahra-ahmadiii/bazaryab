@@ -1,0 +1,92 @@
+[
+  {
+    "id": "C1",
+    "lat": 35.6892,
+    "lng": 51.3890,
+    "visit_value": 25,
+    "available_from": "08:30",
+    "available_to": "11:00",
+    "visit_duration_minutes": 20
+  },
+  {
+    "id": "C2",
+    "lat": 35.7324,
+    "lng": 51.4222,
+    "visit_value": 15,
+    "available_from": "09:00",
+    "available_to": "12:00",
+    "visit_duration_minutes": 15
+  },
+  {
+    "id": "C3",
+    "lat": 35.7064,
+    "lng": 51.4418,
+    "visit_value": 30,
+    "available_from": "10:30",
+    "available_to": "13:00",
+    "visit_duration_minutes": 25
+  },
+  {
+    "id": "C4",
+    "lat": 35.7512,
+    "lng": 51.4038,
+    "visit_value": 20,
+    "available_from": "08:20",
+    "available_to": "10:00",
+    "visit_duration_minutes": 10
+  },
+  {
+    "id": "C5",
+    "lat": 35.7322,
+    "lng": 51.3645,
+    "visit_value": 35,
+    "available_from": "11:00",
+    "available_to": "14:30",
+    "visit_duration_minutes": 30
+  },
+  {
+    "id": "C6",
+    "lat": 35.7167,
+    "lng": 51.3493,
+    "visit_value": 18,
+    "available_from": "10:00",
+    "available_to": "13:30",
+    "visit_duration_minutes": 20
+  },
+  {
+    "id": "C7",
+    "lat": 35.6672,
+    "lng": 51.3750,
+    "visit_value": 22,
+    "available_from": "12:00",
+    "available_to": "15:00",
+    "visit_duration_minutes": 20
+  },
+  {
+    "id": "C8",
+    "lat": 35.7292,
+    "lng": 51.4900,
+    "visit_value": 28,
+    "available_from": "13:00",
+    "available_to": "16:30",
+    "visit_duration_minutes": 30
+  },
+  {
+    "id": "C9",
+    "lat": 35.7765,
+    "lng": 51.4182,
+    "visit_value": 16,
+    "available_from": "09:30",
+    "available_to": "11:30",
+    "visit_duration_minutes": 15
+  },
+  {
+    "id": "C10",
+    "lat": 35.7583,
+    "lng": 51.3766,
+    "visit_value": 24,
+    "available_from": "10:00",
+    "available_to": "13:00",
+    "visit_duration_minutes": 20
+  }
+]

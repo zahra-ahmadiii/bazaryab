@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>برنامه‌ریزی بازدید</title>
+</head>
+<body>
+    <h2>🗓 تعیین بازه زمانی کاری</h2>
+    <form method="POST" action="/result/">
+        {% csrf_token %}
+        <label>زمان شروع:</label>
+        <input type="time" name="start_time" required>
+        <br><br>
+        <label>زمان پایان:</label>
+        <input type="time" name="end_time" required>
+        <br><br>
+        <button type="submit">نمایش مسیر پیشنهادی</button>
+    </form>
+</body>
+</html>

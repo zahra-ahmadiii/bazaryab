@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>نتیجه برنامه‌ریزی</title>
+</head>
+<body>
+    <h2>📋 مسیر پیشنهادی بازدید</h2>
+    <ol>
+        {% for v in result %}
+            <li>
+                {{ v.id }} | {{ v.start_visit }} - {{ v.end_visit }} | ارزش: {{ v.visit_value }}
+            </li>
+        {% endfor %}
+    </ol>
+    <a href="/">بازگشت</a>
+</body>
+</html>
